@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Igor Daniel
 
-<!--
-**IgorDaniel45/IgorDaniel45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔐 I'm a DevSecOps Engineer focused on enabling secure software delivery at scale.
 
-Here are some ideas to get you started:
+- ☁️ I specialize in Cloud Security, Platform Engineering, Security Automation, and Infrastructure as Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛡️ My goal is to help organizations adopt security as an engineering practice rather than treating it as a final checkpoint.
+
+- 💻 I contribute to open source projects across security, cloud, infrastructure, and developer tooling ecosystems.
+
+- 🚀 Current areas of interest:
+  - DevSecOps
+  - Cloud Security
+  - Kubernetes
+  - Security Automation
+  - Infrastructure as Code
+  - Threat Detection Engineering
+  - AI for Security
+
+- ⚙️ Technologies I frequently work with:
+  - Go
+  - Rust
+  - Python
+  - Bash
+  - Docker
+  - Kubernetes
+  - Azure
+  - GitHub Actions
+  - Terraform
+
+- 📚 Here you'll find my projects, experiments, research, and contributions around building secure and reliable systems.
