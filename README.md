@@ -18,13 +18,13 @@ A few projects I've contributed pull requests to:
 
 <!-- contributions:start -->
 
-| Project | My work |
+| Project | Pull requests |
 | --- | --- |
-| [Kyverno](https://github.com/kyverno/kyverno) | [Preserving numeric precision in JMESPath string conversions, with regression tests and fuzz coverage](https://github.com/kyverno/kyverno/pull/17536). |
-| [Nuclei](https://github.com/projectdiscovery/nuclei) | [Preserving empty query parameters](https://github.com/projectdiscovery/nuclei/pull/7685) and [reusing compiled templates safely across concurrent executions](https://github.com/projectdiscovery/nuclei/pull/7690). |
-| [ReadySet](https://github.com/readysettech/readyset) | [Handling MySQL database creation after the session's default database has been dropped](https://github.com/readysettech/readyset/pull/1709). |
-| [PRAXIST](https://github.com/sapientinc/PRAXIST) | [Bringing the redaction module under type checking](https://github.com/sapientinc/PRAXIST/pull/47) and [fixing daemon status detection](https://github.com/sapientinc/PRAXIST/pull/106). |
-| [TimesFM](https://github.com/google-research/timesfm) | [Adding forecast confidence diagnostics](https://github.com/google-research/timesfm/pull/477). |
+| [kyverno/kyverno](https://github.com/kyverno/kyverno) | [fix(jmespath): preserve float64 precision in string conversion](https://github.com/kyverno/kyverno/pull/17536) — Open |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | [Add forecast confidence diagnostics](https://github.com/google-research/timesfm/pull/477) — Open |
+| [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | [fix: reuse compiled templates in thread-safe engine](https://github.com/projectdiscovery/nuclei/pull/7690) — Open |
+| [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | [Graduate redaction module from Pyrefly excludes](https://github.com/sapientinc/PRAXIST/pull/47) — Merged |
+| [readysettech/readyset](https://github.com/readysettech/readyset) | [Handle CREATE DATABASE after dropped MySQL default db](https://github.com/readysettech/readyset/pull/1709) — Open |
 
 <!-- contributions:end -->
 
