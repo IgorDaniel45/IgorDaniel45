@@ -18,6 +18,7 @@ A few projects I've contributed pull requests to:
 
 | Project | My work |
 | --- | --- |
+| [Kyverno](https://github.com/kyverno/kyverno) | [Preserving numeric precision in JMESPath string conversions, with regression tests and fuzz coverage](https://github.com/kyverno/kyverno/pull/17536). |
 | [Nuclei](https://github.com/projectdiscovery/nuclei) | [Preserving empty query parameters](https://github.com/projectdiscovery/nuclei/pull/7685) and [reusing compiled templates safely across concurrent executions](https://github.com/projectdiscovery/nuclei/pull/7690). |
 | [ReadySet](https://github.com/readysettech/readyset) | [Handling MySQL database creation after the session's default database has been dropped](https://github.com/readysettech/readyset/pull/1709). |
 | [PRAXIST](https://github.com/sapientinc/PRAXIST) | [Bringing the redaction module under type checking](https://github.com/sapientinc/PRAXIST/pull/47) and [fixing daemon status detection](https://github.com/sapientinc/PRAXIST/pull/106). |
