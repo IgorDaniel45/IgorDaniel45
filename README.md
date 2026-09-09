@@ -16,6 +16,8 @@ Linux · Docker · Kubernetes · AWS · Azure · Infrastructure as Code (IaC) ·
 
 A few projects I've contributed pull requests to:
 
+<!-- contributions:start -->
+
 | Project | My work |
 | --- | --- |
 | [Kyverno](https://github.com/kyverno/kyverno) | [Preserving numeric precision in JMESPath string conversions, with regression tests and fuzz coverage](https://github.com/kyverno/kyverno/pull/17536). |
@@ -23,5 +25,7 @@ A few projects I've contributed pull requests to:
 | [ReadySet](https://github.com/readysettech/readyset) | [Handling MySQL database creation after the session's default database has been dropped](https://github.com/readysettech/readyset/pull/1709). |
 | [PRAXIST](https://github.com/sapientinc/PRAXIST) | [Bringing the redaction module under type checking](https://github.com/sapientinc/PRAXIST/pull/47) and [fixing daemon status detection](https://github.com/sapientinc/PRAXIST/pull/106). |
 | [TimesFM](https://github.com/google-research/timesfm) | [Adding forecast confidence diagnostics](https://github.com/google-research/timesfm/pull/477). |
+
+<!-- contributions:end -->
 
 [More of my pull requests →](https://github.com/pulls?q=is%3Apr+author%3AIgorDaniel45)
