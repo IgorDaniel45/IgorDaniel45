@@ -8,11 +8,9 @@ One project I'm proud of is a DevSecOps and MLSecOps platform I built with open 
 
 Outside that work, I contribute fixes and tests to open source projects. I enjoy tracing a bug back to its cause and leaving a regression test with the fix.
 
-### Tools I work with
+### Technical background
 
-Linux · Docker · Bash · Python · Go · Rust · Azure · GitHub Actions
-
-I'm deepening my work with AWS, Kubernetes, Infrastructure as Code, and Platform Engineering. I'm also studying Cyber Defense at FIAP.
+Linux · Docker · Kubernetes · AWS · Azure · Infrastructure as Code (IaC) · GitHub Actions · Bash · Python · Go · Rust
 
 ### Open source
 
